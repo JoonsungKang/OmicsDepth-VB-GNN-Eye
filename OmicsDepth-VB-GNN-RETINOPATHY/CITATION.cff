@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying article."
+title: "OmicsDepth-VB-GNN-RETINOPATHY: Multi-omic causal discovery in age-related retinal degeneration"
+authors:
+  - family-names: Chun
+    given-names: Heuiju
+    affiliation: "Dongduk Women's University"
+  - family-names: Jeon
+    given-names: Saebom
+    affiliation: "Sungshin Women's University"
+  - family-names: Yun
+    given-names: Eunseo
+    affiliation: "Handong Global University"
+  - family-names: Kang
+    given-names: Joonsung
+    affiliation: "Kangwon National University"
+repository-code: "https://github.com/JoonsungKang/OmicsDepth-VB-GNN-RETINOPATHY"
+# TODO(authors): add 'doi:' (Zenodo) and 'license:' once chosen.
